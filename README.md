@@ -5,7 +5,7 @@ Neopixel 12 LED ring is a ring of WS2812 LEDs that can be controlled using only 
 This project was developed to interface an Android Application with Arduino via bluetooth and control the Neopixel LEDs.
 
 ## Requirements
-Any Arduino Board, Data cable to connect Arduino with PC, 330Ω, 3 X 1k Resistors, Breadboard, Neopixel 12 Ring LED, Bluetooth Module (I have used HC-05), Connecting Wires.
+Any Arduino Board, Data cable to connect Arduino with PC, 330Ω, 3 X 1k Resistors, Breadboard, Neopixel 12 LED Ring, Bluetooth Module (I have used HC-05), Connecting Wires.
 
 ## Understanding the code
 We start by initializing all the required libraries
